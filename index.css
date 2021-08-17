@@ -349,6 +349,7 @@ button {
 .socialIcons {
   width: 33%;
   justify-content: space-between;
+  align-items: center;
 }
 
 .socialIcons li:hover {
